@@ -2,16 +2,22 @@ body{
     background-color: lightcoral; }
     
 .rei{
-
+margin: auto;
 
     width: 30%;
 }
 .fodo{
 text-align: left;
 color: rgb(123, 0, 86);
+}
+header{
+    text-align: center;
 
+margin-right: 5%;
 
 }
+
+
 
 
 
